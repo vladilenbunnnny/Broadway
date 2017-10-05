@@ -10,7 +10,7 @@ h1 {
 .nav,
  #about {
    color: white;
-   background-image: url(/Users/vladilen/test/git_practice/vladilenbunnnny.github.io/Broadway/resources/images/the-flatiron-building.png);
+   background-image: url(../images/the-flatiron-building.png);
  }
  .btn {
    font-size: 18px;}
